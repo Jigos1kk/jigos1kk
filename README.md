@@ -3,7 +3,7 @@
 <h3 align="center">Middle JavaScript Fullstack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/jigos1kk"><img src="https://img.shields.io/github/followers/jigos1kk?label=Follow&style=social" alt="GitHub Followers"></a>
+  <!-- <a href="https://github.com/jigos1kk"><img src="https://img.shields.io/github/followers/jigos1kk?label=Follow&style=social" alt="GitHub Followers"></a> -->
   <img src="https://img.shields.io/badge/Experience-3%2B%20years-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-green?style=flat-square">
 </p>
