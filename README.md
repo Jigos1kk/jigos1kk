@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 I'm a **Fullstack JavaScript Developer** with over **3 years of experience** building modern web applications.  
-Since **March 2023**, I’ve been working at **Irkutsk State Transport University (IrGUPS)**, handling the full development cycle — from **analytics and system architecture** to **deployment and support**.
+Since **March 2023**, I’ve been working at **Irkutsk State Transport University**, handling the full development cycle — from **analytics and system architecture** to **deployment and support**.
 
 My role combines both **Developer** and **DevOps** responsibilities:  
 I design business processes, build APIs, automate CI/CD pipelines, and maintain production servers.
