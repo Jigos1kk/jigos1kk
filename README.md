@@ -54,7 +54,7 @@ I design business processes, build APIs, automate CI/CD pipelines, and maintain 
 ---
 
 ### 🎯 Career Goal
-I’m looking to join **major tech companies** (Yandex, Sber, VTB, etc.)  
+I’m looking to join **major tech companies** 
 where I can apply my experience in Fullstack and DevOps development,  
 and grow into a **Senior JavaScript Engineer** working on large-scale, high-load systems.
 
