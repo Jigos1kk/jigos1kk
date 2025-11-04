@@ -32,28 +32,28 @@ My expertise spans both frontend and backend technologies, with a particular str
 ### 🛠️ Technical Expertise
 
 **Core Frontend Skills:**  
-`JavaScript (ES6+)` • `TypeScript` • `React` • `Vue.js` • `HTML5` • `CSS3` • `SASS/SCSS`
+`JavaScript (ES6+)` • `TypeScript` • `React` • `Vue.js` • `HTML5` • `CSS3`
 
 **Backend Skills:**  
-`Node.js` • `Express.js` • `REST APIs` • `GraphQL` • `MySQL` • `PostgreSQL` • `MongoDB`
+`Node.js` • `Express.js` • `REST APIs` • `GraphQL` • `MySQL` • `PostgreSQL`
 
 **State Management & Data Handling:**  
-`Redux` • `Vuex` • `Context API` • `React Query` • `Axios`
+`Redux` • `Vue3` • `React Query` • `Axios`
 
 **DevOps & Deployment:**  
 `Docker` • `Envoy` • `CI/CD` • `GitHub Actions` • `Kubernetes`
 
 **Build Tools & Performance:**  
-`Webpack` • `Vite` • `Babel` • `ESLint` • `Prettier` • `Lighthouse` • `Web Vitals`
+`Vite` • `Web Vitals`
 
 **UI/UX & Design Systems:**  
-`Material-UI` • `Ant Design` • `Tailwind CSS` • `Figma` • `Adobe XD` • `Responsive Design`
+`Figma` • `Adobe Photoshop` • `Responsive Design`
 
 **Testing & Quality Assurance:**  
-`Jest` • `React Testing Library` • `Cypress` • `Unit Testing` • `Integration Testing`
+`Unit Testing`
 
 **Version Control & Collaboration:**  
-`Git` • `GitHub` • `GitLab` • `Agile/Scrum` • `Jira` • `Confluence`
+`Git` • `GitHub` • `GitLab`
 
 ---
 
@@ -63,7 +63,6 @@ My expertise spans both frontend and backend technologies, with a particular str
 - Advanced React patterns (Hooks, Concurrent Mode, Server Components)
 - Micro-frontends architecture
 - Web3 integration and blockchain applications
-- AI/ML in frontend development
 
 ---
 
