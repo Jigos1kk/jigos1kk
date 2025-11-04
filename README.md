@@ -72,15 +72,6 @@ I'm seeking opportunities to join **innovative tech companies** where I can leve
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jigos1kk&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigos1kk&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 💼 [HH.ru (Frontend)](https://novosibirsk.hh.ru/resume/360d0f2cff0f9e05bf0039ed1f457963594c70)
