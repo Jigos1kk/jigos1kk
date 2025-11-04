@@ -1,66 +1,94 @@
-<!-- HEADER -->
 <h1 align="center">Hi there 👋, I'm Zhigailo Nikita</h1>
-<h3 align="center">Middle JavaScript Fullstack Developer</h3>
+<h3 align="center">Middle Fullstack Developer | Frontend Specialist | 3+ Years of Experience</h3>
 
 <p align="center">
-  <!-- <a href="https://github.com/jigos1kk"><img src="https://img.shields.io/github/followers/jigos1kk?label=Follow&style=social" alt="GitHub Followers"></a> -->
   <img src="https://img.shields.io/badge/Experience-3%2B%20years-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Specialization-Fullstack%20Development-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Location-Irkutsk%2C%20Russia-orange?style=flat-square">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Fullstack JavaScript Developer** with over **3 years of experience** building modern web applications.  
-Since **March 2023**, I’ve been working at **Irkutsk State Transport University**, handling the full development cycle — from **analytics and system architecture** to **deployment and support**.
+I'm a **passionate Middle Fullstack Developer** with over **3 years of hands-on experience** building end-to-end web applications. Since **March 2023**, I've been working at **Irkutsk State Transport University** as a Fullstack Developer, handling the complete development cycle—from business analysis and system architecture to frontend implementation, backend APIs, and deployment.
 
-My role combines both **Developer** and **DevOps** responsibilities:  
-I design business processes, build APIs, automate CI/CD pipelines, and maintain production servers.
+My expertise spans both frontend and backend technologies, with a particular strength in creating scalable, maintainable frontend solutions using modern JavaScript frameworks. I focus on performance, accessibility, and cross-browser compatibility, while ensuring seamless integration with robust backend systems. I combine technical proficiency with a deep understanding of user experience principles to deliver applications that function flawlessly and provide exceptional user interactions.
 
 ---
 
-### ⚙️ Responsibilities
-- Business process analysis and architecture design  
-- Fullstack development (JavaScript, TypeScript, Node.js, React, Vue)  
-- REST API and backend logic implementation  
-- CI/CD automation and deployment  
-- Server management with Docker and Envoy  
-- Continuous improvement and system support  
+### 💼 Professional Experience
+
+**Fullstack Developer**  
+*Irkutsk State Transport University* | March 2023 – Present  
+- Developed and maintained fullstack web applications serving thousands of users
+- Designed and implemented responsive frontend interfaces with optimized performance for mobile and desktop
+- Built and integrated RESTful APIs and backend logic using Node.js and databases
+- Managed deployment processes, including Docker containerization and CI/CD automation
+- Conducted code reviews, mentored junior developers, and ensured high-quality deliverables
 
 ---
 
-### 🧩 Tech Stack
+### 🛠️ Technical Expertise
 
-**Frontend:**  
-`JavaScript` • `TypeScript` • `React` • `Vue`
+**Core Frontend Skills:**  
+`JavaScript (ES6+)` • `TypeScript` • `React` • `Vue.js` • `HTML5` • `CSS3` • `SASS/SCSS`
 
-**Backend:**  
-`Node.js` • `REST API` • `API Gateway` • `MySQL` • `PostgreSQL`
+**Backend Skills:**  
+`Node.js` • `Express.js` • `REST APIs` • `GraphQL` • `MySQL` • `PostgreSQL` • `MongoDB`
 
-**DevOps:**  
-`Docker` • `Envoy` • `CI/CD` • `GitHub Actions`
+**State Management & Data Handling:**  
+`Redux` • `Vuex` • `Context API` • `React Query` • `Axios`
 
-**Principles & Architecture:**  
-`SOLID` • `Clean Architecture` • `Microservices`
+**DevOps & Deployment:**  
+`Docker` • `Envoy` • `CI/CD` • `GitHub Actions` • `Kubernetes`
 
----
+**Build Tools & Performance:**  
+`Webpack` • `Vite` • `Babel` • `ESLint` • `Prettier` • `Lighthouse` • `Web Vitals`
 
-### 🧠 Currently Learning
-- Advanced system design patterns  
-- High-load architecture and scalability  
-- Cloud services and Kubernetes  
+**UI/UX & Design Systems:**  
+`Material-UI` • `Ant Design` • `Tailwind CSS` • `Figma` • `Adobe XD` • `Responsive Design`
 
----
+**Testing & Quality Assurance:**  
+`Jest` • `React Testing Library` • `Cypress` • `Unit Testing` • `Integration Testing`
 
-### 🎯 Career Goal
-I’m looking to join **major tech companies** 
-where I can apply my experience in Fullstack and DevOps development,  
-and grow into a **Senior JavaScript Engineer** working on large-scale, high-load systems.
+**Version Control & Collaboration:**  
+`Git` • `GitHub` • `GitLab` • `Agile/Scrum` • `Jira` • `Confluence`
 
 ---
 
-### 📫 How to reach me
-- 💼 [hh.ru(DevOps)](https://novosibirsk.hh.ru/resume/391ca40cff0f6ec2060039ed1f383047623864) [hh.ru(JS Developer)](https://novosibirsk.hh.ru/resume/6de6eb48ff0f6ef8db0039ed1f7a4674464b76)
-- 💻 [GitHub Portfolio](https://github.com/jigos1kk)  
+### 📈 Professional Development
+
+**Currently Exploring:**  
+- Advanced React patterns (Hooks, Concurrent Mode, Server Components)
+- Micro-frontends architecture
+- Web3 integration and blockchain applications
+- AI/ML in frontend development
+
+---
+
+### 🎯 Career Aspirations
+
+I'm seeking opportunities to join **innovative tech companies** where I can leverage my fullstack expertise to build cutting-edge applications. My goal is to evolve into a **Senior Fullstack Engineer**, leading teams in developing scalable, high-load systems that shape the future of web technology.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jigos1kk&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigos1kk&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [HH.ru (Frontend)](https://novosibirsk.hh.ru/resume/360d0f2cff0f9e05bf0039ed1f457963594c70)
+- 💻 [GitHub Portfolio](https://github.com/jigos1kk)
 - ✉️ Email: nikitazhig1@yandex.ru
+- 📱 Telegram: [@jigos1kk](https://t.me/jigos1k)
+
+---
+
+<p align="center">⭐ <em>Feel free to explore my repositories and reach out for collaborations or opportunities!</em></p>
